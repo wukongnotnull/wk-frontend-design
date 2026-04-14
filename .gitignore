@@ -1,0 +1,24 @@
+# Editor directories and files
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Skill-specific
+skills/*/node_modules/
+skills/*/dist/
+skills/*/.cache/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.temp
